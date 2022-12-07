@@ -3,7 +3,9 @@
 ## Содержание
 
 * [Выбор инструментов](#выбор-инструментов)
-* [Установка и развертывание](#установка-и-развертывание)
+* [Установка, развертывание, разработка (zoo)](#решение-zoo)
+* [Установка, развертывание, разработка (философы и двуфазный коммит)](#решение-других-задач)
+* [Результаты](#результаты)
 * [Ссылки на использованные материалы](#ссылки-на-использованные-материалы)
 
 ## Выбор инструментов
@@ -14,8 +16,8 @@
 * Scala 2.13.10
 * sbt 1.8.0
 
-При решении задачи об обедающих философах и реализации двух-фазного коммита использовался язык программирования python и библиотека kazoo (zookeeper запускался на windows)
-## Установка, развертывание, разработка (zoo)
+При решении задачи об обедающих философах и реализации двух-фазного коммита использовался язык программирования python и библиотека kazoo.
+## Решение zoo
 
 1. В IntelliJ IDEA установть плагин Scala
 2. В IntelliJ IDEA создать проект scala, сборщик sbt
@@ -31,7 +33,7 @@
 
 6. Запустить приложение с помощью конфигураций
 
-## Установка, развертывание, разработка (философы, двуфазный коммит)
+## Решение других задач
 
 1. Установить библиотеку kazoo (версия 2.9.0 содержит критические баги)
 
@@ -50,26 +52,26 @@
 
 <p align="center">
   <b>Приложение Monkey</b><br>
-  <img src="screenshots/tiger_output.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/tiger_output.png"/>
 </p>
 
 <p align="center">
   <b>Приложение Tiger</b><br>
-  <img src="screenshots/monkey_output.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/monkey_output.png"/>
 </p>
 
 ### Философы 
 
 <p align="center">
   <b>Вывод в консоль</b><br>
-  <img src="screenshots/philosopher_output.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/philosopher_output.png"/>
 </p>
 
 ### Двуфазный коммит
 
 <p align="center">
   <b>Вывод в консоль</b><br>
-  <img src="screenshots/2pc_output.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/2pc_output.png"/>
 </p>
 
 7. В интерфейсе jupyter создаем новый ноутбук
