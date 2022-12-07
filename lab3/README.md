@@ -5,7 +5,7 @@
 * [Выбор инструментов](#выбор-инструментов)
 * [Установка и развертывание](#установка-и-развертывание)
 * [Тесты](#тесты)
-* [Ссылки на использованные материалы](#ссылки-на-использованные-материалы)
+* [Ссылки на использованные материалы](#использованные-источники)
 
 ## Выбор инструментов
 
@@ -16,7 +16,7 @@
 
 Задания были реализованы на языке Java
 
-## Установка и развертование
+## Установка и развертывание
 
 1. В IntelliJ IDEA создать новый проект из git (https://github.com/ververica/flink-training-exercises)
 2. Установить версию java 1.8 (почему-то с последними версиями выпадали ошибки)
@@ -27,22 +27,22 @@
 https://github.com/Anteii/HPC-Labs/blob/main/lab4/resources/cpu_gpu_times_small_n_subs.png
 <p align="center">
   <b>Expiring State Test</b><br>
-  <img src="ExpiringStateTest.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/ExpiringStateTest.png"/>
 </p>
 
 <p align="center">
   <b>Hourly Tips Test</b><br>
-  <img src="HourlyTipsTest.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/HourlyTipsTest.png"/>
 </p>
 
 <p align="center">
   <b>Ride Cleansing Test</b><br>
-  <img src="RideCleansingTest.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/RideCleansingTest.png"/>
 </p>
 
 <p align="center">
   <b>Rides And Fares Test</b><br>
-  <img src="RidesAndFaresTest.png"/>
+  <img src="https://github.com/Anteii/big-data-labs/blob/main/screenshots/RidesAndFaresTest.png"/>
 </p>
 
 ## Использованные источники
